@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <!-- Círculo exterior dorado oscuro -->
+    <circle cx="16" cy="16" r="15" fill="#DAA520" stroke="#B8860B" stroke-width="1"/>
+    
+    <!-- Círculo interior más oscuro -->
+    <circle cx="16" cy="16" r="6" fill="#B8860B"/>
+    
+    <!-- Punto central -->
+    <circle cx="16" cy="16" r="2" fill="#DAA520"/>
+    
+    <!-- Detalles brillantes -->
+    <circle cx="12" cy="12" r="1" fill="#F4A460"/>
+</svg> 
